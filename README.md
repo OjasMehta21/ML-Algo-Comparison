@@ -2,4 +2,4 @@
 
 For more information, please check Report.pdf <br />
 The R code for this project is in MLCode.R <br />
-The dataset used is Data/diabetes.csv
+diabetes.csv contains the dataset used which is in the directory named as Data.
